@@ -1,4 +1,5 @@
 #indclude<iostream>
+#include<stack>
 using namspacestd;
 
 int main()
